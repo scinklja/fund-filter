@@ -1,0 +1,201 @@
+Ticker	Name	Segment	Issuer	Expense Ratio	AUM
+SPY	SPDR S&P 500 ETF Trust	Equity: U.S. - Large Cap	State Street Global Advisors	0.09%	$374.47B
+IVV	iShares Core S&P 500 ETF	Equity: U.S. - Large Cap	Blackrock	0.03%	$302.90B
+VTI	Vanguard Total Stock Market ETF	Equity: U.S. - Total Market	Vanguard	0.03%	$276.16B
+VOO	Vanguard S&P 500 ETF	Equity: U.S. - Large Cap	Vanguard	0.03%	$275.22B
+QQQ	Invesco QQQ Trust	Equity: U.S. - Large Cap	Invesco	0.20%	$153.59B
+VEA	Vanguard FTSE Developed Markets ETF	Equity: Developed Markets Ex-U.S. - Total Market	Vanguard	0.05%	$108.81B
+VTV	Vanguard Value ETF	Equity: U.S. - Large Cap Value	Vanguard	0.04%	$103.46B
+IEFA	iShares Core MSCI EAFE ETF	Equity: Developed Markets Ex-North America - Total Market	Blackrock	0.07%	$96.00B
+VUG	Vanguard Growth ETF	Equity: U.S. - Large Cap Growth	Vanguard	0.04%	$74.61B
+VWO	Vanguard FTSE Emerging Markets ETF	Equity: Emerging Markets - Total Market	Vanguard	0.08%	$74.38B
+IEMG	iShares Core MSCI Emerging Markets ETF	Equity: Emerging Markets - Total Market	Blackrock	0.09%	$72.02B
+IJR	iShares Core S&P Small-Cap ETF	Equity: U.S. - Small Cap	Blackrock	0.06%	$69.50B
+IJH	iShares Core S&P Mid-Cap ETF	Equity: U.S. - Mid Cap	Blackrock	0.05%	$68.10B
+VIG	Vanguard Dividend Appreciation ETF	Equity: U.S. - Total Market	Vanguard	0.06%	$65.24B
+IWF	iShares Russell 1000 Growth ETF	Equity: U.S. - Large Cap Growth	Blackrock	0.18%	$59.48B
+VXUS	Vanguard Total International Stock ETF	Equity: Global Ex-U.S. - Total Market	Vanguard	0.07%	$55.02B
+IWM	iShares Russell 2000 ETF	Equity: U.S. - Small Cap	Blackrock	0.19%	$54.29B
+VO	Vanguard Mid-Cap ETF	Equity: U.S. - Mid Cap	Vanguard	0.04%	$53.17B
+IWD	iShares Russell 1000 Value ETF	Equity: U.S. - Large Cap Value	Blackrock	0.18%	$52.99B
+VYM	Vanguard High Dividend Yield ETF	Equity: U.S. - High Dividend Yield	Vanguard	0.06%	$50.36B
+EFA	iShares MSCI EAFE ETF	Equity: Developed Markets Ex-North America - Total Market	Blackrock	0.32%	$48.53B
+SCHD	Schwab U.S. Dividend Equity ETF	Equity: U.S. - High Dividend Yield	Charles Schwab	0.06%	$46.32B
+VB	Vanguard Small-Cap ETF	Equity: U.S. - Small Cap	Vanguard	0.05%	$44.30B
+XLE	Energy Select Sector SPDR Fund	Equity: U.S. Energy	State Street Global Advisors	0.10%	$42.12B
+VGT	Vanguard Information Technology ETF	Equity: U.S. Information Technology	Vanguard	0.10%	$42.01B
+ITOT	iShares Core S&P Total U.S. Stock Market ETF	Equity: U.S. - Total Market	Blackrock	0.03%	$40.46B
+XLV	Health Care Select Sector SPDR Fund	Equity: U.S. Health Care	State Street Global Advisors	0.10%	$40.37B
+XLK	Technology Select Sector SPDR Fund	Equity: U.S. Information Technology	State Street Global Advisors	0.10%	$40.24B
+VNQ	Vanguard Real Estate ETF	Equity: U.S. Real Estate	Vanguard	0.12%	$36.01B
+RSP	Invesco S&P 500 Equal Weight ETF	Equity: U.S. - Large Cap	Invesco	0.20%	$35.77B
+VEU	Vanguard FTSE All-World ex-US ETF	Equity: Global Ex-U.S. - Total Market	Vanguard	0.07%	$35.31B
+XLF	Financial Select Sector SPDR Fund	Equity: U.S. Financials	State Street Global Advisors	0.10%	$33.28B
+IXUS	iShares Core MSCI Total International Stock ETF	Equity: Global Ex-U.S. - Total Market	Blackrock	0.07%	$31.41B
+SCHF	Schwab International Equity ETF	Equity: Developed Markets Ex-U.S. - Total Market	Charles Schwab	0.06%	$30.91B
+SCHX	Schwab U.S. Large-Cap ETF	Equity: U.S. - Large Cap	Charles Schwab	0.03%	$30.77B
+USMV	iShares MSCI USA Min Vol Factor ETF	Equity: U.S. - Total Market	Blackrock	0.15%	$30.19B
+DIA	SPDR Dow Jones Industrial Average ETF Trust	Equity: U.S. - Large Cap	State Street Global Advisors	0.16%	$29.93B
+IVW	iShares S&P 500 Growth ETF	Equity: U.S. - Large Cap Growth	Blackrock	0.18%	$28.89B
+IWR	iShares Russell Mid-Cap ETF	Equity: U.S. - Mid Cap	Blackrock	0.18%	$28.65B
+IWB	iShares Russell 1000 ETF	Equity: U.S. - Large Cap	Blackrock	0.15%	$28.26B
+VT	Vanguard Total World Stock ETF	Equity: Global - Total Market	Vanguard	0.07%	$26.31B
+SDY	SPDR S&P Dividend ETF	Equity: U.S. - High Dividend Yield	State Street Global Advisors	0.35%	$25.92B
+VBR	Vanguard Small-Cap Value ETF	Equity: U.S. - Small Cap Value	Vanguard	0.07%	$25.71B
+IVE	iShares S&P 500 Value ETF	Equity: U.S. - Large Cap Value	Blackrock	0.18%	$25.68B
+VV	Vanguard Large-Cap ETF	Equity: U.S. - Large Cap	Vanguard	0.04%	$25.30B
+DGRO	iShares Core Dividend Growth ETF	Equity: U.S. - Total Market	Blackrock	0.08%	$24.07B
+DVY	iShares Select Dividend ETF	Equity: U.S. - High Dividend Yield	Blackrock	0.38%	$23.40B
+SCHB	Schwab U.S. Broad Market ETF	Equity: U.S. - Total Market	Charles Schwab	0.03%	$21.22B
+ESGU	iShares ESG Aware MSCI USA ETF	Equity: U.S. - Total Market	Blackrock	0.15%	$19.74B
+MDY	SPDR S&P Midcap 400 ETF Trust	Equity: U.S. - Mid Cap	State Street Global Advisors	0.22%	$19.43B
+ACWI	iShares MSCI ACWI ETF	Equity: Global - Total Market	Blackrock	0.32%	$19.38B
+QUAL	iShares MSCI USA Quality Factor ETF	Equity: U.S. - Total Market	Blackrock	0.15%	$18.52B
+VGK	Vanguard FTSE Europe ETF	Equity: Developed Europe - Total Market	Vanguard	0.08%	$17.13B
+VHT	Vanguard Health Care ETF	Equity: U.S. Health Care	Vanguard	0.10%	$16.99B
+XLP	Consumer Staples Select Sector SPDR Fund	Equity: U.S. Consumer Staples	State Street Global Advisors	0.10%	$16.91B
+VOE	Vanguard Mid-Cap Value ETF	Equity: U.S. - Mid Cap Value	Vanguard	0.07%	$16.86B
+EFV	iShares MSCI EAFE Value ETF	Equity: Developed Markets Ex-North America - Total Market Value	Blackrock	0.35%	$16.45B
+SPYV	SPDR Portfolio S&P 500 Value ETF	Equity: U.S. - Large Cap Value	State Street Global Advisors	0.04%	$16.11B
+XLU	Utilities Select Sector SPDR Fund	Equity: U.S. Utilities	State Street Global Advisors	0.10%	$15.75B
+SPLG	SPDR Portfolio S&P 500 ETF	Equity: U.S. - Large Cap	State Street Global Advisors	0.03%	$15.65B
+SPDW	SPDR Portfolio Developed World ex-US ETF	Equity: Developed Markets Ex-U.S. - Total Market	State Street Global Advisors	0.04%	$15.17B
+SCHG	Schwab U.S. Large-Cap Growth ETF	Equity: U.S. - Large Cap Growth	Charles Schwab	0.04%	$14.76B
+SCHA	Schwab U.S. Small-Cap ETF	Equity: U.S. - Small Cap	Charles Schwab	0.04%	$14.39B
+SPYG	SPDR Portfolio S&P 500 Growth ETF	Equity: U.S. - Large Cap Growth	State Street Global Advisors	0.04%	$14.39B
+VXF	Vanguard Extended Market ETF	Equity: U.S. - Extended Market	Vanguard	0.06%	$14.18B
+XLY	Consumer Discretionary Select Sector SPDR Fund	Equity: U.S. Consumer Discretionary	State Street Global Advisors	0.10%	$14.14B
+XLI	Industrial Select Sector SPDR Fund	Equity: U.S. Industrials	State Street Global Advisors	0.10%	$13.86B
+IUSV	iShares Core S&P U.S. Value ETF	Equity: U.S. - Total Market Value	Blackrock	0.04%	$13.34B
+IWS	iShares Russell Mid-Cap Value ETF	Equity: U.S. - Mid Cap Value	Blackrock	0.23%	$13.34B
+VBK	Vanguard Small-Cap Growth ETF	Equity: U.S. - Small Cap Growth	Vanguard	0.07%	$13.09B
+HDV	iShares Core High Dividend ETF	Equity: U.S. - High Dividend Yield	Blackrock	0.08%	$12.30B
+IWN	iShares Russell 2000 Value ETF	Equity: U.S. - Small Cap Value	Blackrock	0.23%	$12.26B
+MTUM	iShares MSCI USA Momentum Factor ETF	Equity: U.S. - Total Market	Blackrock	0.15%	$12.07B
+IWP	iShares Russell Mid-Cap Growth ETF	Equity: U.S. - Mid Cap Growth	Blackrock	0.23%	$12.00B
+IUSG	iShares Core S&P U.S. Growth ETF	Equity: U.S. - Total Market Growth	Blackrock	0.04%	$11.60B
+SCZ	iShares MSCI EAFE Small-Cap ETF	Equity: Developed Markets Ex-North America - Small Cap	Blackrock	0.39%	$11.57B
+NOBL	ProShares S&P 500 Dividend Aristocrats ETF	Equity: U.S. - Large Cap	ProShares	0.35%	$11.29B
+EFG	iShares MSCI EAFE Growth ETF	Equity: Developed Markets Ex-North America - Total Market Growth	Blackrock	0.35%	$11.21B
+IWV	iShares Russell 3000 ETF	Equity: U.S. - Total Market	Blackrock	0.20%	$10.90B
+GSLC	Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF	Equity: U.S. - Large Cap	Goldman Sachs	0.09%	$10.75B
+SPLV	Invesco S&P 500 Low Volatility ETF	Equity: U.S. - Large Cap	Invesco	0.25%	$10.56B
+MGK	Vanguard Mega Cap Growth ETF	Equity: U.S. - Large Cap Growth	Vanguard	0.07%	$10.50B
+IDEV	iShares Core MSCI International Developed Markets ETF	Equity: Developed Markets Ex-U.S. - Total Market	Blackrock	0.04%	$10.50B
+FNDX	Schwab Fundamental U.S. Large Company Index ETF	Equity: U.S. - Large Cap	Charles Schwab	0.25%	$10.46B
+SCHV	Schwab U.S. Large-Cap Value ETF	Equity: U.S. - Large Cap Value	Charles Schwab	0.04%	$10.18B
+VONG	Vanguard Russell 1000 Growth ETF	Equity: U.S. - Large Cap Growth	Vanguard	0.08%	$10.10B
+IWO	iShares Russell 2000 Growth ETF	Equity: U.S. - Small Cap Growth	Blackrock	0.23%	$9.94B
+VOT	Vanguard Mid-Cap Growth ETF	Equity: U.S. - Mid Cap Growth	Vanguard	0.07%	$9.93B
+SCHM	Schwab U.S. Mid-Cap ETF	Equity: U.S. - Mid Cap	Charles Schwab	0.04%	$9.92B
+SPYD	SPDR Portfolio S&P 500 High Dividend ETF	Equity: U.S. - High Dividend Yield	State Street Global Advisors	0.07%	$9.42B
+FNDF	Schwab Fundamental International Large Company Index ETF	Equity: Developed Markets Ex-U.S. - Large Cap	Charles Schwab	0.25%	$9.31B
+XLC	Communication Services Select Sector SPDR Fund	Equity: U.S. Communication Services	State Street Global Advisors	0.10%	$9.22B
+VFH	Vanguard Financials ETF	Equity: U.S. Financials	Vanguard	0.10%	$9.15B
+SCHE	Schwab Emerging Markets Equity ETF	Equity: Emerging Markets - Total Market	Charles Schwab	0.11%	$9.07B
+IBB	iShares Biotechnology ETF	Equity: U.S. Biotechnology	Blackrock	0.44%	$8.91B
+IYW	iShares U.S. Technology ETF	Equity: U.S. Information Technology	Blackrock	0.39%	$8.62B
+VDE	Vanguard Energy ETF	Equity: U.S. Energy	Vanguard	0.10%	$8.54B
+VSS	Vanguard FTSE All-World ex-US Small-Cap ETF	Equity: Global Ex-U.S. - Small Cap	Vanguard	0.07%	$8.27B
+IJJ	iShares S&P Mid-Cap 400 Value ETF	Equity: U.S. - Mid Cap Value	Blackrock	0.18%	$8.20B
+XBI	SPDR S&P Biotech ETF	Equity: U.S. Biotechnology	State Street Global Advisors	0.35%	$8.18B
+DGRW	WisdomTree US Quality Dividend Growth Fund	Equity: U.S. - Total Market	WisdomTree	0.28%	$7.70B
+VLUE	iShares MSCI USA Value Factor ETF	Equity: U.S. - Total Market Value	Blackrock	0.15%	$7.67B
+IJS	iShares S&P Small-Cap 600 Value ETF	Equity: U.S. - Small Cap Value	Blackrock	0.18%	$7.46B
+EFAV	iShares MSCI EAFE Min Vol Factor ETF	Equity: Developed Markets Ex-North America - Total Market	Blackrock	0.20%	$7.34B
+OEF	iShares S&P 100 ETF	Equity: U.S. - Large Cap	Blackrock	0.20%	$7.33B
+IJK	iShares S&P Mid-Cap 400 Growth ETF	Equity: U.S. - Mid Cap Growth	Blackrock	0.17%	$7.31B
+BBJP	JPMorgan BetaBuilders Japan ETF	Equity: Japan - Total Market	JPMorgan Chase	0.19%	$7.25B
+ESGD	iShares ESG Aware MSCI EAFE ETF	Equity: Developed Markets Ex-North America - Total Market	Blackrock	0.20%	$7.18B
+BBEU	JPMorgan BetaBuilders Europe ETF	Equity: Developed Europe - Total Market	JPMorgan Chase	0.09%	$6.97B
+SMH	VanEck Semiconductor ETF	Equity: Global Semiconductors	VanEck	0.35%	$6.96B
+SPEM	SPDR Portfolio Emerging Markets ETF	Equity: Emerging Markets - Total Market	State Street Global Advisors	0.11%	$6.92B
+VONV	Vanguard Russell 1000 Value ETF	Equity: U.S. - Large Cap Value	Vanguard	0.08%	$6.90B
+SOXX	iShares Semiconductor ETF	Equity: U.S. Semiconductors	Blackrock	0.35%	$6.72B
+VOOG	Vanguard S&P 500 Growth ETF	Equity: U.S. - Large Cap Growth	Vanguard	0.10%	$6.70B
+VDC	Vanguard Consumer Staples ETF	Equity: U.S. Consumer Staples	Vanguard	0.10%	$6.66B
+EEMV	iShares MSCI Emerging Markets Min Vol Factor ETF	Equity: Emerging Markets - Total Market	Blackrock	0.25%	$6.61B
+QQQM	Invesco NASDAQ 100 ETF	Equity: U.S. - Large Cap	Invesco	0.15%	$6.44B
+VPL	Vanguard FTSE Pacific ETF	Equity: Developed Asia-Pacific - Total Market	Vanguard	0.08%	$6.36B
+FNDA	Schwab Fundamental U.S. Small Company Index ETF	Equity: U.S. - Small Cap	Charles Schwab	0.25%	$6.30B
+XLB	Materials Select Sector SPDR Fund	Equity: U.S. Materials	State Street Global Advisors	0.10%	$6.17B
+IHI	iShares U.S. Medical Devices ETF	Equity: U.S. Health Care Equipment	Blackrock	0.39%	$6.11B
+PRF	Invesco FTSE RAFI U.S. 1000 ETF	Equity: U.S. - Large Cap	Invesco	0.39%	$6.09B
+BBCA	JPMorgan BetaBuilders Canada ETF	Equity: Canada - Total Market	JPMorgan Chase	0.19%	$6.06B
+SCHH	Schwab U.S. REIT ETF	Equity: U.S. REITs	Charles Schwab	0.07%	$6.02B
+SPMD	SPDR Portfolio S&P 400 Mid Cap ETF	Equity: U.S. - Mid Cap	State Street Global Advisors	0.05%	$6.00B
+ESGV	Vanguard ESG U.S. Stock ETF	Equity: U.S. - Total Market	Vanguard	0.09%	$6.00B
+MGV	Vanguard Mega Cap Value ETF	Equity: U.S. - Large Cap Value	Vanguard	0.07%	$5.97B
+VTWO	Vanguard Russell 2000 ETF	Equity: U.S. - Small Cap	Vanguard	0.10%	$5.97B
+SPTM	SPDR Portfolio S&P 1500 Composite Stock Market ETF	Equity: U.S. - Total Market	State Street Global Advisors	0.03%	$5.73B
+VPU	Vanguard Utilities ETF	Equity: U.S. Utilities	Vanguard	0.10%	$5.59B
+VYMI	Vanguard International High Dividend Yield ETF	Equity: Global Ex-U.S. - High Dividend Yield	Vanguard	0.22%	$5.58B
+FTEC	Fidelity MSCI Information Technology Index ETF	Equity: U.S. Information Technology	Fidelity	0.08%	$5.36B
+IJT	iShares S&P Small-Cap 600 Growth ETF	Equity: U.S. - Small Cap Growth	Blackrock	0.18%	$5.28B
+FDL	First Trust Morningstar Dividend Leaders Index Fund	Equity: U.S. - High Dividend Yield	First Trust	0.45%	$5.24B
+XLRE	Real Estate Select Sector SPDR Fund	Equity: U.S. Real Estate	State Street Global Advisors	0.10%	$5.23B
+ITA	iShares U.S. Aerospace & Defense ETF	Equity: U.S. Aerospace & Defense	Blackrock	0.39%	$5.18B
+ICLN	iShares Global Clean Energy ETF	Equity: Global Renewable Energy	Blackrock	0.40%	$5.11B
+SPSM	SPDR Portfolio S&P 600 Small Cap ETF	Equity: U.S. - Small Cap	State Street Global Advisors	0.05%	$5.05B
+FNDE	Schwab Fundamental Emerging Markets Large Company Index ETF	Equity: Emerging Markets - Large Cap	Charles Schwab	0.39%	$4.76B
+BBAX	JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF	Equity: Developed Asia-Pacific Ex-Japan - Total Market	JPMorgan Chase	0.19%	$4.74B
+IWY	iShares Russell Top 200 Growth ETF	Equity: U.S. - Large Cap Growth	Blackrock	0.20%	$4.72B
+IGV	iShares Expanded Tech-Software Sector ETF	Equity: North America Software	Blackrock	0.40%	$4.70B
+IQLT	iShares MSCI Intl Quality Factor ETF	Equity: Developed Markets Ex-U.S. - Total Market	Blackrock	0.30%	$4.59B
+SPHD	Invesco S&P 500 High Dividend Low Volatility ETF	Equity: U.S. - Large Cap	Invesco	0.30%	$4.53B
+ACWX	iShares MSCI ACWI ex U.S. ETF	Equity: Global Ex-U.S. - Total Market	Blackrock	0.32%	$4.51B
+ACWV	iShares MSCI Global Min Vol Factor ETF	Equity: Global - Total Market	Blackrock	0.20%	$4.50B
+VIGI	Vanguard International Dividend Appreciation ETF	Equity: Global Ex-U.S. - Total Market	Vanguard	0.15%	$4.47B
+SPHQ	Invesco S&P 500 Quality ETF	Equity: U.S. - Large Cap	Invesco	0.15%	$4.36B
+ESGE	iShares ESG Aware MSCI EM ETF	Equity: Emerging Markets - Total Market	Blackrock	0.25%	$4.35B
+IXJ	iShares Global Healthcare ETF	Equity: Global Health Care	Blackrock	0.40%	$4.28B
+SLYV	SPDR S&P 600 Small Cap Value ETF	Equity: U.S. - Small Cap Value	State Street Global Advisors	0.15%	$4.17B
+XOP	SPDR S&P Oil & Gas Exploration & Production ETF	Equity: U.S. Oil, Gas & Consumable Fuels	State Street Global Advisors	0.35%	$4.10B
+IEUR	iShares Core MSCI Europe ETF	Equity: Developed Europe - Total Market	Blackrock	0.09%	$4.10B
+VCR	Vanguard Consumer Discretionary ETF	Equity: U.S. Consumer Discretionary	Vanguard	0.10%	$4.07B
+ONEQ	Fidelity NASDAQ Composite Index ETF	Equity: U.S. - Total Market	Fidelity	0.21%	$4.00B
+IGF	iShares Global Infrastructure ETF	Equity: Global Infrastructure	Blackrock	0.40%	$3.95B
+VNQI	Vanguard Global ex-U.S. Real Estate ETF	Equity: Global Ex-U.S. Real Estate	Vanguard	0.12%	$3.94B
+GNR	SPDR S&P Global Natural Resources ETF	Equity: Global Natural Resources	State Street Global Advisors	0.40%	$3.91B
+DBEF	Xtrackers MSCI EAFE Hedged Equity ETF	Equity: Developed Markets Ex-North America - Total Market	DWS	0.35%	$3.90B
+DLN	WisdomTree U.S. LargeCap Dividend Fund	Equity: U.S. - Large Cap	WisdomTree	0.28%	$3.79B
+RPV	Invesco S&P 500 Pure Value ETF	Equity: U.S. - Large Cap Value	Invesco	0.35%	$3.76B
+VIS	Vanguard Industrials ETF	Equity: U.S. Industrials	Vanguard	0.10%	$3.75B
+IYR	iShares U.S. Real Estate ETF	Equity: U.S. Real Estate	Blackrock	0.39%	$3.73B
+SCHC	Schwab International Small-Cap Equity ETF	Equity: Developed Markets Ex-U.S. - Small Cap	Charles Schwab	0.11%	$3.71B
+MGC	Vanguard Mega Cap ETF	Equity: U.S. - Large Cap	Vanguard	0.07%	$3.63B
+VONE	Vanguard Russell 1000 ETF	Equity: U.S. - Large Cap	Vanguard	0.08%	$3.62B
+DSI	iShares MSCI KLD 400 Social ETF	Equity: U.S. - Total Market	Blackrock	0.25%	$3.50B
+IOO	iShares Global 100 ETF	Equity: Global - Large Cap	Blackrock	0.40%	$3.48B
+DON	WisdomTree U.S. MidCap Dividend Fund	Equity: U.S. - Mid Cap	WisdomTree	0.38%	$3.41B
+EMXC	iShares MSCI Emerging Markets ex China ETF	Equity: Emerging Markets - Total Market	Blackrock	0.25%	$3.35B
+SUSA	iShares MSCI USA ESG Select ETF	Equity: U.S. - Total Market	Blackrock	0.25%	$3.25B
+VSGX	Vanguard ESG International Stock ETF	Equity: Global Ex-U.S. - Total Market	Vanguard	0.12%	$3.25B
+IYH	iShares U.S. Healthcare ETF	Equity: U.S. Health Care	Blackrock	0.39%	$3.25B
+VOOV	Vanguard S&P 500 Value ETF	Equity: U.S. - Large Cap Value	Vanguard	0.10%	$3.22B
+REET	iShares Global REIT ETF	Equity: Global REITs	Blackrock	0.14%	$3.18B
+USSG	Xtrackers MSCI USA ESG Leaders Equity ETF	Equity: U.S. - Total Market	DWS	0.10%	$3.18B
+FHLC	Fidelity MSCI Health Care Index ETF	Equity: U.S. Health Care	Fidelity	0.08%	$3.10B
+SUSL	iShares ESG MSCI USA Leaders ETF	Equity: U.S. - Total Market	Blackrock	0.10%	$3.09B
+HEFA	iShares Currency Hedged MSCI EAFE ETF	Equity: Developed Markets Ex-North America - Total Market	Blackrock	0.35%	$3.08B
+GSIE	Goldman Sachs ActiveBeta International Equity ETF	Equity: Developed Markets Ex-U.S. - Total Market	Goldman Sachs	0.25%	$3.07B
+BBIN	JPMorgan BetaBuilders International Equity ETF	Equity: Developed Markets Ex-North America - Total Market	JPMorgan Chase	0.07%	$3.05B
+VAW	Vanguard Materials ETF	Equity: U.S. Materials	Vanguard	0.10%	$3.01B
+JHMM	John Hancock Multifactor Mid Cap ETF	Equity: U.S. - Mid Cap	John Hancock	0.41%	$2.97B
+IXN	iShares Global Tech ETF	Equity: Global Information Technology	Blackrock	0.40%	$2.93B
+FNDC	Schwab Fundamental International Small Company Index ETF	Equity: Developed Markets Ex-U.S. - Small Cap	Charles Schwab	0.39%	$2.89B
+OIH	VanEck Oil Services ETF	Equity: Global Energy Equipment & Services	VanEck	0.35%	$2.84B
+URTH	iShares MSCI World ETF	Equity: Developed Markets - Total Market	Blackrock	0.24%	$2.71B
+VOX	Vanguard Communication Services ETF	Equity: U.S. Communication Services	Vanguard	0.10%	$2.70B
+XME	SPDR S&P Metals & Mining ETF	Equity: U.S. Metals & Mining	State Street Global Advisors	0.35%	$2.58B
+MDYV	SPDR S&P 400 Mid Cap Value ETF	Equity: U.S. - Mid Cap Value	State Street Global Advisors	0.15%	$2.54B
+SCHK	Schwab 1000 Index ETF	Equity: U.S. - Large Cap	Charles Schwab	0.05%	$2.50B
+IGM	iShares Expanded Tech Sector ETF	Equity: North America Broad Technology	Blackrock	0.40%	$2.49B
+KRE	SPDR S&P Regional Banking ETF	Equity: U.S. Regional Banks	State Street Global Advisors	0.35%	$2.46B
+ICF	iShares Cohen & Steers REIT ETF	Equity: U.S. REITs	Blackrock	0.32%	$2.44B
+OMFL	Invesco Russell 1000 Dynamic Multifactor ETF	Equity: U.S. - Large Cap	Invesco	0.29%	$2.41B
+SLYG	SPDR S&P 600 Small Cap Growth ETF	Equity: U.S. - Small Cap Growth	State Street Global Advisors	0.15%	$2.34B
+FEZ	SPDR Euro STOXX 50 ETF	Equity: Developed Europe - Large Cap	State Street Global Advisors	0.29%	$2.33B
+XSOE	WisdomTree Emerging Markets ex-State-Owned Enterprises Fund	Equity: Emerging Markets - Total Market	WisdomTree	0.32%	$2.30B
+SPGP	Invesco S&P 500 GARP ETF	Equity: U.S. - Large Cap Growth	Invesco	0.36%	$2.30B
+PBUS	Invesco PureBeta MSCI USA ETF	Equity: U.S. - Total Market	Invesco	0.04%	$2.30B

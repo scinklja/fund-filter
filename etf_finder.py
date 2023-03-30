@@ -1,9 +1,11 @@
+from tabulate import tabulate
+
 
 #allbigETFs = open("allbigETFs.txt")
 #data_all = allbigETFs.read()
 #list_all = data_all.split()
-negative_files = ["meta", "xom"]
-positive_files = ["tsla", "coin"]
+negative_files = ["meta", "xom", "v"]
+positive_files = ["tsla", "coin", "hpq", "vrsn", "mco"]
 multidata_file = "expense ratios"
 
 
@@ -134,9 +136,17 @@ def selection():
     for list in positive_score_etfs:
         element = list[0], list[4], list[6]
         clean_positive_score.append(element)
+        
+    clean_positive_score.sort(key=lambda x: x[2], reverse=True)
     return clean_positive_score
 
-print(*selection(), sep = "\n")
+#print(*selection(), sep = "\n")
+headers=["", "ETF", "Expense Ratio", "Score"]
+table_data = selection()
+table_data = [list(row) for row in table_data]  # convert tuples to lists
+for i in range(len(table_data)):
+    table_data[i].insert(0, i+1)  # add row numbers
+print(tabulate(table_data, headers = headers))
         
 #print(score())
 

@@ -4,9 +4,13 @@ from tabulate import tabulate
 #allbigETFs = open("allbigETFs.txt")
 #data_all = allbigETFs.read()
 #list_all = data_all.split()
+
+#https://www.etfchannel.com/etfs/
 negative_files = ["meta", "xom", "v"]
-positive_files = ["tsla", "coin", "hpq", "vrsn", "mco"]
-multidata_file = "expense ratios"
+positive_files = ["tsla", "coin", "hpq", "vrsn", "mco", "aon"]
+
+#https://www.etf.com/etfanalytics/etf-finder
+multidata_file = "expense ratios" 
 
 
 def format_to_openable(x):

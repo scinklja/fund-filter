@@ -138,14 +138,14 @@ def selection():
         if x > 0:
             positive_score_etfs.append(list)
     for list in positive_score_etfs:
-        element = list[0], list[4], list[6]
+        element = list[0], list[1], list[4], list[6]
         clean_positive_score.append(element)
         
-    clean_positive_score.sort(key=lambda x: x[2], reverse=True)
+    clean_positive_score.sort(key=lambda x: x[3], reverse=True)
     return clean_positive_score
 
 #print(*selection(), sep = "\n")
-headers=["", "ETF", "Expense Ratio", "Score"]
+headers=["", "Ticker", "Name", "Expense Ratio", "Score"]
 table_data = selection()
 table_data = [list(row) for row in table_data]  # convert tuples to lists
 for i in range(len(table_data)):

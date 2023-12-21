@@ -6,8 +6,15 @@ from tabulate import tabulate
 #list_all = data_all.split()
 
 #https://www.etfchannel.com/etfs/
-negative_files = ["meta", "xom", "v"]
-positive_files = ["tsla", "coin", "hpq", "vrsn", "mco", "aon"]
+negative_files = [
+#"meta", "xom", "v", "mstr"
+]
+positive_files = [
+#"tsla",
+"coin", "hood",
+#"hpq", "vrsn", "mco", "aon", "ce", "mck", "nvda",
+"joby", "lilm",
+]
 
 #https://www.etf.com/etfanalytics/etf-finder
 multidata_file = "expense ratios" 

@@ -5,7 +5,7 @@ from tabulate import tabulate
 #data_all = allbigETFs.read()
 #list_all = data_all.split()
 
-#https://www.etfchannel.com/etfs/
+
 negative_files = [
 #"meta", "xom", "v", "mstr"
 ]
@@ -16,7 +16,7 @@ positive_files = [
 "joby", "lilm",
 ]
 
-#https://www.etf.com/etfanalytics/etf-finder
+
 multidata_file = "expense ratios" 
 
 

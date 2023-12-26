@@ -1,0 +1,12 @@
+ETF expense ratios:
+
+https://www.etf.com/etfanalytics/etf-screener
+
+ETF by theme:
+
+https://www.justetf.com/en/find-etf.html?assetClass=class-equity&groupField=index&theme=Blockchain
+
+ETF by exposure:
+
+https://www.etfchannel.com/finder/?a=etfsholding&symbol=TSLA
+https://etfdb.com/stock/TSLA/#etfs&sort_name=weighting&sort_order=desc&page=1

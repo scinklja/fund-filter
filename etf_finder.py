@@ -21,7 +21,7 @@ multidata_file = "expense ratios"
 
 
 def format_to_openable(x):
-    y = x + ".txt"
+    y = "data\\" + x + ".txt"
     return y
 
 #reads a file to a list of lines, which are themselves split into lists of elements
